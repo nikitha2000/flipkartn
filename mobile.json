@@ -4,6 +4,7 @@
         "image": "/assets/oppok2.webp",
         "rating": "4.5",
         "ratingsCount": "57,878 Rating & 1,728 Reviews",
+        "mrating":"57,878",
         "specs": [
             "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
             "16.94 cm (6.67 inch) HD Display",
@@ -23,6 +24,7 @@
         "image":"/assets/oppov30.webp",
         "rating":"4.5",
         "ratingsCount":"4,696 Ratings & 617 Reviews",
+        "mrating":"4,696",
         "specs":[
             "8 GB RAM | 256 GB ROM",
             "17.22 cm(6.78 inch) Full HD+ Display",
@@ -43,6 +45,7 @@
         "image":"/assets/apple15.webp",
         "rating":"4.6",
         "ratingsCount":"1,54,880 Ratings & 5,015 Reviews",
+        "mrating":"1,54,880",
         "specs":[
             "128 GB ROM",
             "15.49 cm(6.1 inch) Super Retina XDR Display",
@@ -61,6 +64,7 @@
         "image":"/assets/motorola.webp",
         "rating":"4.2",
         "ratingsCount":"33,112 Ratings & 1,908 Reviews",
+        "mrating":"33,112",
         "specs":[
             "12 GB RAM | 256 GB ROM |Expandable Upto 1 TB",
             "16.51 cm (6.5 inch) Full HD+ Display",
@@ -80,6 +84,7 @@
         "image":"/assets/cmf.webp",
         "rating":"4.4",
         "ratingsCount":"8,638 Ratings & 526 Reviews",
+        "mrating":"8,638",
         "specs":[
             "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
             "16.94 cm (6.67 inch) HD Display",
@@ -99,6 +104,7 @@
         "image":"/assets/samsung.webp",
         "rating":"4.2",
         "ratingsCount":"25,892 Ratings & 986 Reviews",
+        "mrating":"25,892",
         "specs":[
             "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
             "16.76 cm (6.6 inch) Full HD+ Display",
@@ -118,6 +124,7 @@
         "image":"/assets/galaxyblack.webp",
         "rating":"4.2",
         "ratingsCount":"25,892 Ratings & 986 Reviews",
+        "mrating":"25,892",
         "specs":[
             "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
             "16.76 cm (6.6 inch) Full HD+ Display",
@@ -137,6 +144,7 @@
         "image":"/assets/apple15p.webp",
         "rating":"4.6",
         "ratingsCount":"1,796 Ratings & 110 Reviews",
+        "mrating":"1,796",
         "specs":[
             "512 GB ROM",
             "17.02 cm (6.7 inch Super Retina XDR Display)",
@@ -155,6 +163,7 @@
        "image":"/assets/iphone16.webp",
        "rating":"4.6",
        "ratingsCount":"1,118 Ratings & 28 Reviews",
+       "mrating":"1,118",
        "specs":[
         "128 GB ROM",
         "15.49 cm (6.1 inch) Super Retina XDR Display",
@@ -173,6 +182,7 @@
         "image":"/assets/redmi.webp",
         "rating":"4.3",
         "ratingsCount":"21,993 Ratings",
+        "mrating":"21,993",
         "specs":[
             "8 GB RAM | 256 GB ROM ",
             "16.94 cm (6.67 inch) HD Display",
@@ -192,6 +202,7 @@
        "image":"/assets/google1.webp",
        "rating":"4.4",
        "ratingsCount":"10,533 Ratings & 753 Reviews",
+       "mrating":"10,533",
        "specs":[
         "8 GB RAM | 128 GB ROM",
         "15.75 cm(6.2 inch) Full HD+ Display",
@@ -211,6 +222,7 @@
         "image":"/assets/google7.webp",
         "rating":"4.1",
         "ratingsCount":"21,954 Ratings & 2,202 Reviews",
+        "mrating":"21,954",
         "specs":[
             "8 GB RAM | 128 GB ROM",
             "15.49 cm (6.1 inch) Full HD+ Display",
@@ -230,6 +242,7 @@
         "image":"/assets/vivot3.webp",
         "rating":"4.5",
         "ratingsCount":"75,716 Ratings & 2,746 Reviews",
+        "mrating":"75,716",
         "specs":[
             "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
             "17.07 cm (6.72 inch) Full HD+ Display",
@@ -248,6 +261,7 @@
         "image":"/assets/poco.webp",
         "rating":"4.1",
         "ratingsCount":"68,095 Ratings & 3,244 Reviews",
+        "mrating":"68,095",
         "specs":[
             "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
             "17.12 cm (6.74 inch) HD+ Display",
@@ -267,6 +281,7 @@
         "image":"/assets/realme12.webp",
         "rating":"4.5",
         "ratingsCount":"20,305 Ratings & 573 Reviews",
+        "mrating":"20,305",
         "specs":[
             "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
             "17.07 cm (6.72 inch) Full HD+ Display",
@@ -286,6 +301,7 @@
         "image":"/assets/techno.webp",
         "rating":"4.1",
         "ratingsCount":"62 Ratings & 4 Reviews",
+        "mrating":"62",
         "specs":[
             "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
             "16.94 cm (6.67 inch) HD Display",
@@ -305,6 +321,7 @@
         "image":"/assets/a14.webp",
         "rating":"4.2",
         "ratingsCount":"27,031 Ratings & 1,020 Reviews",
+        "mrating":"27,031",
         "specs":[
             "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
             "16.76 cm (6.6 inch) Full HD+ Display",
@@ -324,6 +341,7 @@
         "image":"/assets/sam6.webp",
         "rating":"4.3",
         "ratingsCount":"5,112 Rating & 179 Reviews",
+        "mrating":"5,112",
         "specs":[
             "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
             "17.12 cm (6.74 inch) HD+ Display",
@@ -343,6 +361,7 @@
         "image":"/assets/sms21.webp",
         "rating":"4.3",
         "ratingsCount":"1,48,521 Ratings & 13,960 Reviews",
+        "mrating":"1,48,521",
         "specs":[
             "8 GB RAM | 256 GB ROM",
             "16.26 cm (6.4 inch) Full HD+ Display",
@@ -362,6 +381,7 @@
         "image":"/assets/apple2.webp",
         "rating":"4.6",
         "ratingsCount":"1,796 Ratings & 110 Reviews",
+        "mrating":"1,796",
         "specs":[
             "512 GB ROM",
             "17.02 cm (6.7 inch) Super Retina XDR Display",
@@ -380,6 +400,7 @@
         "image":"/assets/mg87.webp",
         "rating":"4.5",
         "ratingsCount":"66,207 Ratings & 2,985 Reviews",
+        "mrating":"66,207",
         "specs":[
             "8 GB RAM | 128 GB ROM",
             "16.94 cm (6.67 inch) Full HD+ Display",
@@ -399,6 +420,7 @@
         "image":"/assets/motorolax.webp",
         "rating":"4.3",
         "ratingsCount":"4,448 Rating & 649 Reviews",
+        "mrating":"4,448",
         "specs":[
             "3 GB RAM | 32 GB ROM | Expandable Upto 2 TB",
             "13.21 cm (5.2 inch) Full HD Display",
@@ -419,6 +441,7 @@
         "image":"/assets/vivoy01.webp",
         "rating":"4.2",
         "ratingsCount":"1,803 Rating & 95 Reviews",
+        "mrating":"1,803",
         "specs":[
             "2 GB RAM | 32 GB ROM",
             "16.54 cm (6.51 inch) HD+ Display",
@@ -438,6 +461,7 @@
         "image":"/assets/oppo4.webp",
         "rating":"4.1",
         "ratingsCount":"710 Ratings & 29 Reviews",
+        "mrating":"710",
         "specs":[
             "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
             "16.94 cm (6.67 inch) Full HD+ Display",
@@ -457,6 +481,7 @@
         "image":"/assets/ikall.webp",
         "rating":"3.3",
         "ratingsCount":"3 Ratings & 0 Reviews",
+        "mrating":"3",
         "specs":[],
         "newPrice":"₹699",
         "oldPrice":"₹999",
@@ -469,6 +494,7 @@
         "image":"/assets/motoedge.webp",
         "rating":"4.5",
         "ratingsCount":"61,633 Ratings & 4,077 Reviews",
+        "mrating":"61,633",
         "specs":[
             "12 GB RAM",
             "17.02 cm (6.7 inch) Full HD+ Display",
@@ -488,6 +514,7 @@
         "image":"/assets/samsung72.webp",
         "rating":"3.6",
         "ratingsCount":"12,977 Ratings & 676 Reviews",
+        "mrating":"12,977",
         "specs":[
             "1 GB RAM | 8 GB ROM",
             "10.16 cm (4 inch) Display",
@@ -506,6 +533,7 @@
         "image":"/assets/sama.webp",
         "rating":"3.6" ,
         "ratingsCount":"463 Ratings & 35 Review",
+        "mrating":"463",
         "specs":[
             "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB",
             "16.51 cm (6.5 inch) Full HD+ Display",
@@ -525,6 +553,7 @@
         "image":"/assets/tara2.webp",
         "rating":"2.5",
         "ratingsCount":"35 Rating & 2 Reviews",
+        "mrating":"35",
         "specs":[
             "32 MB RAM | 32 RAM ROM",
             "4.5 cm (1.77 inch) QVGA Display",

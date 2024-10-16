@@ -3089,5 +3089,346 @@ footer{
     text-decoration: none;
 }
 
+.mob-body{
+    margin-top: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-decoration: none;
+    padding: 0px;
+    background-color: white;
 }
+
+.product-repeat-mob{
+    align-items: stretch;
+    border-width: 0;
+    border-style: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 16px;
+    position: relative;
+    min-height: 0;
+    width: 100%;
+}
+
+.mob-repeat-container{
+    background-color: white;
+    margin: 0px;
+    flex-direction: column;
+    flex: 1;
+    align-items: stretch;
+    border: 0 solid black;
+    box-sizing: border-box;
+    display: flex;
+    list-style: none;   
+}
+
+.mob1{
+    align-items: stretch;
+    background-color: white;
+    border: 0 solid black;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    padding: 0px;
+    position: relative;
+    text-decoration: none;
+    z-index: 0;
+}
+
+.mob1-container{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.mob-repeat-content{
+    flex-direction: row;
+    flex: 1;
+    flex-wrap: wrap;
+    min-height: 154px;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    display: flex;
+}
+
+.mob1-img{
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 6px;
+    margin-top: 16px;
+    height: 120px;
+    width: 96px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.mob-img-container{
+    display: flex;
+    position: relative;
+    width: 96px;
+    height: 120px;
+}
+
+.mob1-info{
+    flex: 1;
+    align-items: flex-start;
+    padding-left: 12px;
+    padding-right: 20px;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mob1-name{
+   margin-right: 24px;
+   margin-bottom: 4px;
+   align-self: stretch;
+   display: flex;
+}
+
+.mob1-name span{
+    color: rgba(17, 17, 18, 1.00);
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: "interreg";
+    letter-spacing: -0.01px;
+    line-clamp: 2;
+    max-width: 100%;
+    display: inline;
+}
+
+.mob1-stars{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 6px;
+    align-items: center;
+    flex-basis: 0;
+}
+
+.star-review{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding-right: 2px;
+    margin-top: 2px;
+}
+
+.star-review-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.mstar{
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-size: 12px;
+    vertical-align: middle;
+    background-color: #388e3c;
+
+}
+
+.mstar img{
+    margin: 2px 0 0 2px;
+    height: 10px;
+
+}
+
+.review{
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    flex-direction: column;
+}
+
+.review span{
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    font-family: "interreg";
+    letter-spacing: 0px;
+    color: rgba(113, 116, 120, 1.00);
+    margin-left: 4px;
+    padding-bottom: 2px;
+}
+
+.mfassured{
+    display: flex;
+    position: relative;
+    width: 60px;
+    height: 16px;
+}
+
+.mfassured img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    object-fit: contain;
+    opacity: 1;
+}
+
+.off-price{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.off-price-container{
+    margin-right: 8px;
+    align-items: stretch;
+    background-color: rgba(0, 0, 0, 0.00);
+    border: 0 solid black;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: column;
+    flex-shrink: 0;
+    list-style: none;
+    min-height: 0px;
+    min-width: 0px;
+    padding: 0px;
+    position: relative;
+    text-decoration: none;
+    z-index: 0;
+}
+
+.off-price-content{
+    font-weight: 600;
+    font-family: "intersemi";
+    margin-left: 0;
+}
+
+.discount{
+    font-weight: 600;
+    font-family: "intersemi";
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: -0.01px;
+    color: rgba(0, 140, 0, 1.00);
+}
+
+.mold-price{
+    margin-right: 8px;
+}
+
+.mold-price span{
+    font-weight: 600;
+    font-family: "intersemi";
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: -0.01px;
+    color: rgba(113, 116, 120, 1.00);
+    text-decoration: line-through;
+    margin-left: 0px;
+}
+
+.mnew-price span{
+   font-weight: 600;
+   font-family: "intersemi";
+   font-size: 17px;
+   line-height: 24px;
+   letter-spacing: -0.01px;
+   color: rgba(17, 17, 18, 1.00);
+}
+
+.msave-extra{
+    margin-top: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+
+}
+.msave-extra span{
+    font-size: 12px;
+    color: rgb(38, 165, 65);
+    font-family: "robotm", "Droid Sans", "Helvetica Neue", "Helvetica", sans-serif;
+    font-style: normal;
+}
+
+.mup-to{
+    margin-top: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+.mup-to-text{
+    background-color: rgba(0, 0, 0, 0.00);
+    font-size: 12px;
+    color: rgba(0, 0, 0, 1.00);
+    font-family: "robotor", Helvetica, Arial, sans-serif;
+    font-style: normal;
+
+}
+
+.inr{
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-family: "robotm", Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.delivery{
+    margin-top: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.delivery span{
+    background-color: rgba(0, 0, 0, 0.00);
+    font-size: 12px;
+    color: rgba(0, 0, 0, 1.00);
+    font-family: "robotor", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+
+.mheart{
+    top: 12px;
+    right: 12px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+
+.varient{
+    color: rgba(42, 85, 229, 1.00);
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    font-family: "intersemi";
+    letter-spacing: -0.01px;
+}
+
+}
+
+
 

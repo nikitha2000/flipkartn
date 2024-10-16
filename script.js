@@ -869,5 +869,82 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-//------------------------------------------------------------------------------------stars--------------------------------------------------
+//--------------------------------------------------------------------------------------------------------------------------------------
+//===========================================================================================================================================================
 
+async function fetchAndRenderProducts() {
+    try {
+        const response = await fetch('mobile.json'); 
+        const productsData = await response.json();
+        renderProductList(productsData);
+    } catch (error) {
+        console.error('Error fetching products:', error);
+    }
+}
+
+function renderProductList(products) {
+    const productContainer = document.getElementById('product-repeat-mob');
+    productContainer.innerHTML = '';
+
+    products.forEach(product => {
+        const productHTML = `
+            <div class="mobrepeat-container">
+                <div>
+                    <div class="mob1">
+                        <div class="mob1-container">
+                            <div style="display: flex; flex-direction: column;">
+                                <div class="mob-repeat-content">
+                                    <div class="mob1-img">
+                                        <div class="mob-img-container">
+                                            <img src="${product.image}" alt="${product.name}">
+                                        </div>
+                                    </div>
+                                    <div class="mob1-info">
+                                        <div class="mob1-name"><span>${product.name}</span></div>
+                                        <div class="mob1-stars">
+                                            <div class="star-review">
+                                                <div class="star-review-container">
+                                                    <div class="mstar">${product.rating}<img src="/assets/stars.svg" alt="Rating stars"></div>
+                                                    <div class="review"><span>(${product.mrating})</span></div>
+                                                </div>
+                                            </div>
+                                            <div class="mfassured">
+                                                <img src="/assets/mfass.webp" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="off-price">
+                                            <div class="off-price-container">
+                                                <div class="off-price-content">
+                                                    <div class="discount"><span>${product.discount}</span></div>
+                                                </div>
+                                            </div>
+                                            <div class="mold-price"><span>${product.oldPrice}</span></div>
+                                            <div class="mnew-price"><span>${product.newPrice}</span></div>
+                                        </div>
+                                        <div class="msave-extra"><span>Save extra with combo offers</span></div>
+                                        <div class="mup-to"><div class="mup-to-text">${product.exchangeOffer}</div></div>
+                                         <div class="delivery">
+                                                <span>${product.delivery}</span>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="mheart">
+                                    <svg width="24" height="24" viewBox="0 0 256 256"><path fill="none" d="M0 0h256v256H0z"></path><path d="M128 216S28 160 28 92a52 52 0 0 1 100-20h0a52 52 0 0 1 100 20c0 68-100 124-100 124Z" fill="#fff" stroke="#B8BBBF" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></path></svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="varient">View all Variants</div>
+                </div>
+            </div>
+        `;
+        productContainer.insertAdjacentHTML('beforeend', productHTML);
+    });
+}
+
+
+fetchAndRenderProducts();

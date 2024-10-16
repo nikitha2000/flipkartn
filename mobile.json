@@ -1,0 +1,547 @@
+[
+    {
+        "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-the-box (Breez Blue, 128 GB)",
+        "image": "/assets/oppok2.webp",
+        "rating": "4.5",
+        "ratingsCount": "57,878 Rating & 1,728 Reviews",
+        "specs": [
+            "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "16.94 cm (6.67 inch) HD Display",
+            "32MP + 2MP | 8MP Front Camera",
+            "5100 mAh Battery",
+            "Dimensity 6300 Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+        ],
+        "newPrice": "₹12,999",
+        "oldPrice": "₹16,999",
+        "discount": "23% off",
+        "delivery": "Free Delivery",
+        "exchangeOffer": "Upto <span class='inr'>₹7,950</span> Off on Exchange"
+    },
+    {
+        "name":"vivo V30 Pro 5G (classic Black, 256 GB)",
+        "image":"/assets/oppov30.webp",
+        "rating":"4.5",
+        "ratingsCount":"4,696 Ratings & 617 Reviews",
+        "specs":[
+            "8 GB RAM | 256 GB ROM",
+            "17.22 cm(6.78 inch) Full HD+ Display",
+            "50MP + 50MP + 50MP | 50MP Front Camera",
+            "5000 mAh Battery",
+            "Dimensity 8200 5G Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+        ],
+        "newPrice":"₹38,999",
+        "oldPrice":"₹46,999",
+        "discount":"17% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹21,850</span> Off on Exchange"
+        
+    },
+    {
+        "name":"Apple iPhone 15(Blue, 128 GB)",
+        "image":"/assets/apple15.webp",
+        "rating":"4.6",
+        "ratingsCount":"1,54,880 Ratings & 5,015 Reviews",
+        "specs":[
+            "128 GB ROM",
+            "15.49 cm(6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A16 Blonic Chip, 6 Core Processor Processor",
+            "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹57,999",
+        "oldPrice":"₹69,999",
+        "discount":"17% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹34,950</span> Off on Exchange"
+    },
+    {
+        "name":"Motorola g64 5G (Red Berry, 256 GB)",
+        "image":"/assets/motorola.webp",
+        "rating":"4.2",
+        "ratingsCount":"33,112 Ratings & 1,908 Reviews",
+        "specs":[
+            "12 GB RAM | 256 GB ROM |Expandable Upto 1 TB",
+            "16.51 cm (6.5 inch) Full HD+ Display",
+            "50MP (OIS) + 8MP | 16MP Front Camera",
+            "6000 mAh Battery",
+            "Dimensity 7025 Processor",
+            "1 Year on Handset and 6 Months on Accessories"
+        ],
+        "newPrice":"₹14,999",
+        "oldPrice":"₹19,999",
+        "discount":"25% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹8,600</span> Off on Exchange"
+    },
+    {
+        "name":"CMF by Nothing Phone 1 (Light Green, 128 GB)",
+        "image":"/assets/cmf.webp",
+        "rating":"4.4",
+        "ratingsCount":"8,638 Ratings & 526 Reviews",
+        "specs":[
+            "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "16.94 cm (6.67 inch) HD Display",
+            "50MP + 2MP | 16 MP Front Camera",
+            "5000 mAh Battery",
+            "Dimensity 7300 5G Processor",
+            "1 Year Manufacturing Warranty"
+        ],
+        "newPrice":"₹17,999",
+        "oldPrice":"₹21,999",
+        "discount":"18% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹10,300</span> Off on Exchange"
+    },
+    {
+        "name":"SAMSUNG Galaxy A14 5G (DARK Red, 128 GB)",
+        "image":"/assets/samsung.webp",
+        "rating":"4.2",
+        "ratingsCount":"25,892 Ratings & 986 Reviews",
+        "specs":[
+            "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "16.76 cm (6.6 inch) Full HD+ Display",
+            "50MP + 2 MP + 2MP | 13MP Front Camera",
+            "5000 mAh Lithium Ion Battery",
+            "Exynos 1330 Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹10,999",
+        "oldPrice":"₹20,999",
+        "discount":"47% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹7,300</span> Off on Exchange"
+    },
+    {
+        "name":"SAMSUNG Galaxy A14 5G (Black, 128 GB)",
+        "image":"/assets/galaxyblack.webp",
+        "rating":"4.2",
+        "ratingsCount":"25,892 Ratings & 986 Reviews",
+        "specs":[
+            "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "16.76 cm (6.6 inch) Full HD+ Display",
+            "50MP + 2 MP + 2MP | 13MP Front Camera",
+            "5000 mAh Lithium Ion Battery",
+            "Exynos 1330 Processor",
+            "1 year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹10,999",
+        "oldPrice":"₹20,999",
+        "discount":"47% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹7,300</span> Off on Exchange"
+    },
+    {
+        "name":"Apple iPhone 15 Pro Max (Natural Titanium,512 GB)",
+        "image":"/assets/apple15p.webp",
+        "rating":"4.6",
+        "ratingsCount":"1,796 Ratings & 110 Reviews",
+        "specs":[
+            "512 GB ROM",
+            "17.02 cm (6.7 inch Super Retina XDR Display)",
+            "48MP + 12MP + 12MP | 12MP Front Camera",
+            "A17 Pro Chips, 6 Core Processor Processor",
+            "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹1,32,999",
+        "oldPrice":"₹1,54,900",
+        "discount":"14% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"only 2 left"
+    },
+    {
+       "name":"Apple iPhone16 (Teal, 128 GB)",
+       "image":"/assets/iphone16.webp",
+       "rating":"4.6",
+       "ratingsCount":"1,118 Ratings & 28 Reviews",
+       "specs":[
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "A18 Chip, 6 Core processor Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+       ],
+       "newPrice":"₹79,900",
+       "oldPrice":" ",
+       "discount":" ",
+       "delivery":"Free Delivery",
+       "exchangeOffer":"Upto <span class='inr'>₹36,050</span> Off on Exchange"
+    },
+    {
+        "name":"REDMI Note 13 Pro 5G (Midnight Black, 128 GB)",
+        "image":"/assets/redmi.webp",
+        "rating":"4.3",
+        "ratingsCount":"21,993 Ratings",
+        "specs":[
+            "8 GB RAM | 256 GB ROM ",
+            "16.94 cm (6.67 inch) HD Display",
+            "200MP (OIS) + 8MP + 2MP | 16MP Front Camera",
+            "5100 mAh Battery",
+            "7s Gen 2 Mobile Platform 5G Processor",
+            "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+        ],
+        "newPrice":"₹22,999",
+        "oldPrice":"₹28,999",
+        "discount":"20% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹7,150</span> Off on Exchange"
+    },
+    {
+       "name":"Google Pixel 8 (Hazel, 128 GB)",
+       "image":"/assets/google1.webp",
+       "rating":"4.4",
+       "ratingsCount":"10,533 Ratings & 753 Reviews",
+       "specs":[
+        "8 GB RAM | 128 GB ROM",
+        "15.75 cm(6.2 inch) Full HD+ Display",
+        "50MP + 12MP | 10.5MP Front Camera",
+        "4575 mAh Battery",
+        "Tensor G3 Processor",
+        "1 Year Domestic Warrantly"
+       ],
+       "newPrice":"₹38,999",
+       "oldPrice":"₹75,999",
+       "discount":"48% off",
+       "delivery":"Free Delivery",
+       "exchangeOffer":"only few  left"
+    },
+    {
+        "name":"Google Pixel 7a (Charcoal, 128 GB)",
+        "image":"/assets/google7.webp",
+        "rating":"4.1",
+        "ratingsCount":"21,954 Ratings & 2,202 Reviews",
+        "specs":[
+            "8 GB RAM | 128 GB ROM",
+            "15.49 cm (6.1 inch) Full HD+ Display",
+            "64MP (OIS) + 13MP | 13MP Front Camera",
+            "4300 mAh Battery",
+            "Tensor G2 Processor",
+            "1 Year Domestic Warranty"
+        ],
+        "newPrice":"₹29,999",
+        "oldPrice":"₹43,999",
+        "discount":"31% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹16,800</span> Off on Exchange"
+    },
+    {
+        "name":"vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "image":"/assets/vivot3.webp",
+        "rating":"4.5",
+        "ratingsCount":"75,716 Ratings & 2,746 Reviews",
+        "specs":[
+            "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "17.07 cm (6.72 inch) Full HD+ Display",
+            "50MP + 2MP | 8MP Front Camera",
+            "6 Gen 1 Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+        ],
+        "newPrice":"₹14,499",
+        "oldPrice":"₹18,999",
+        "discount":"23% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹8,800</span> Off on Exchange"
+    },
+    {
+        "name":"POCO M6 5G (Orion Blue, 64 GB)",
+        "image":"/assets/poco.webp",
+        "rating":"4.1",
+        "ratingsCount":"68,095 Ratings & 3,244 Reviews",
+        "specs":[
+            "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+            "17.12 cm (6.74 inch) HD+ Display",
+            "50MP Rear Camera | 5MP Front Camera",
+            "5000 mAh Battery",
+            "Mediatek Dimensity 6100+ Processor",
+            "1 Year Manufacture Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+        ],
+        "newPrice":"₹7,999",
+        "oldPrice":"₹11,999",
+        "discount":"33% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹5,400</span> Off on Exchange"
+    },
+    {
+        "name":"realme 12x 5G (Coral Red, 128 GB)",
+        "image":"/assets/realme12.webp",
+        "rating":"4.5",
+        "ratingsCount":"20,305 Ratings & 573 Reviews",
+        "specs":[
+            "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "17.07 cm (6.72 inch) Full HD+ Display",
+            "50MP + 2MP | 8MP Front Camera",
+            "5000 mAh Battery",
+            "Dimensity 6100+ Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+        ],
+        "newPrice":"₹13,499",
+        "oldPrice":"₹18,999",
+        "discount":"28% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹8,100</span> Off on Exchange"
+    },
+    {
+        "name":"Tecno Pova 6 Neo (Midnight Shadow,256 GB)",
+        "image":"/assets/techno.webp",
+        "rating":"4.1",
+        "ratingsCount":"62 Ratings & 4 Reviews",
+        "specs":[
+            "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+            "16.94 cm (6.67 inch) HD Display",
+            "108MP REAR Camera",
+            "5000 mAh Battery",
+            "Mediatek Dimensity 6300 Processor",
+            "1 year manufacturer Warrenty"
+        ],
+        "newPrice":"₹13,999",
+        "oldPrice":"₹16,999",
+        "discount":"17% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Bank offer"
+    },
+    {
+        "name":"SAMSUNG Galaxy A14 5G (Black, 128 GB)",
+        "image":"/assets/a14.webp",
+        "rating":"4.2",
+        "ratingsCount":"27,031 Ratings & 1,020 Reviews",
+        "specs":[
+            "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "16.76 cm (6.6 inch) Full HD+ Display",
+            "50MP + 2 MP + 2MP | 13MP Front Camera",
+            "5000 mAh Lithium Ion Battery",
+            "Exynos 1330 Processor",
+            "1 Year Manufacturing Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹10,999",
+        "oldPrice":"₹20,999",
+        "discount":"47% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹7,500</span> Off on Exchange"
+    },
+    {
+        "name":"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)",
+        "image":"/assets/sam6.webp",
+        "rating":"4.3",
+        "ratingsCount":"5,112 Rating & 179 Reviews",
+        "specs":[
+            "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+            "17.12 cm (6.74 inch) HD+ Display",
+            "50MP + 2MP | 8MP Front Camera",
+            "5000 mAh Battery",
+            "Helio G85 Processor",
+            "1 Year Manufacture Warranty for Device and 6 Months for In-Box Accessories"
+        ],
+        "newPrice":"₹6,499",
+        "oldPrice":"₹9,999",
+        "discount":"35% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹4,600</span> Off on Exchange"
+    },
+    {
+        "name":"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Navy, 256 GB)",
+        "image":"/assets/sms21.webp",
+        "rating":"4.3",
+        "ratingsCount":"1,48,521 Ratings & 13,960 Reviews",
+        "specs":[
+            "8 GB RAM | 256 GB ROM",
+            "16.26 cm (6.4 inch) Full HD+ Display",
+            "12MP + 12MP + 8MP (OIS) | 32MP Front Camera",
+            "4500 mAh Lithium-ion Battery",
+            "Snapdragon 888 Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+        ],
+        "newPrice":"₹26,999",
+        "oldPrice":"₹65,000",
+        "discount":"58% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Only 1 left"
+    },
+    {
+        "name":"Apple iPhone 15 Pro Max (Blue Titanium, 512 GB)",
+        "image":"/assets/apple2.webp",
+        "rating":"4.6",
+        "ratingsCount":"1,796 Ratings & 110 Reviews",
+        "specs":[
+            "512 GB ROM",
+            "17.02 cm (6.7 inch) Super Retina XDR Display",
+            "48MP + 12MP + 12MP | 12MP Front Camera",
+            "A17 Pro Chips, 6 Core Processor Processor",
+            "1 Year Warranty for Phone and 6 Months Warranty for In-box Accessories"
+        ],
+        "newPrice":"₹1,32,999",
+        "oldPrice":"₹1,54,900",
+        "delivery":"Free Delivery",
+        "discount":"14% off",
+        "exchangeOffer":"Only 1 left"
+    },
+    {
+        "name":"Motorola G85 5G (Olive Green, 128 GB)",
+        "image":"/assets/mg87.webp",
+        "rating":"4.5",
+        "ratingsCount":"66,207 Ratings & 2,985 Reviews",
+        "specs":[
+            "8 GB RAM | 128 GB ROM",
+            "16.94 cm (6.67 inch) Full HD+ Display",
+            "50MP + 8MP | 32MP Front Camera",
+            "5000 mAh Battery",
+            "6s Gen 3 Processor",
+            "1 Year on Handset and 6 Months on Accessories"
+        ],
+        "newPrice":"₹16,999",
+        "oldPrice":"₹20,999",
+        "delivery":"Free Delivery",
+        "discount":"19% off",
+        "exchangeOffer":"Upto <span class='inr'>₹10,450</span> Off on Exchange"
+    },
+    {
+        "name":"MOTOLORA Moto X4(Super Black, 32 GB)",
+        "image":"/assets/motorolax.webp",
+        "rating":"4.3",
+        "ratingsCount":"4,448 Rating & 649 Reviews",
+        "specs":[
+            "3 GB RAM | 32 GB ROM | Expandable Upto 2 TB",
+            "13.21 cm (5.2 inch) Full HD Display",
+            "12MP + 8MP | 16MP Front Camera",
+            "3000 mAh Battery",
+            "Mediatek Helio G37 Processor",
+            "1 Year on Handset and 6 Months on Accessories"
+        ],
+        "newPrice":"₹21, 999",
+        "oldPrice": "",
+        "delivery":"",
+        "discount":"",
+        "exchangeOffer":""
+
+    },
+    {
+        "name":"vivo Y01 (Elegent Black, 32 GB)",
+        "image":"/assets/vivoy01.webp",
+        "rating":"4.2",
+        "ratingsCount":"1,803 Rating & 95 Reviews",
+        "specs":[
+            "2 GB RAM | 32 GB ROM",
+            "16.54 cm (6.51 inch) HD+ Display",
+            "108MP REAR Camera | 5MP Front Camera",
+            "5000 mAh Lithium Battery",
+            "Mediatek Hello P35 Processor",
+            "1 Year on Handset and 6 Months on Accessories"
+        ],
+        "newPrice":"₹7,999",
+        "oldPrice":"₹12,999",
+        "delivery":"",
+        "discount":"38% off",
+        "exchangeOffer":""
+    },
+    {
+        "name":"OPPO A3X 5G (Starlight White, 64 GB)",
+        "image":"/assets/oppo4.webp",
+        "rating":"4.1",
+        "ratingsCount":"710 Ratings & 29 Reviews",
+        "specs":[
+            "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "16.94 cm (6.67 inch) Full HD+ Display",
+            "8MP Rear Camera | 5MP Front Camera",
+            "5100 mAh Battery",
+            "Dimensity 6300 Processor",
+            "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+        ],
+        "newPrice":"₹12,499",
+        "oldPrice":"₹14,999",
+        "discount":"16% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹8,200</span> Off on Exchange"
+    },
+    {
+        "name":"I KALL K130",
+        "image":"/assets/ikall.webp",
+        "rating":"3.3",
+        "ratingsCount":"3 Ratings & 0 Reviews",
+        "specs":[],
+        "newPrice":"₹699",
+        "oldPrice":"₹999",
+        "discount":"30% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"only few  left"
+    },
+    {
+        "name":"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",
+        "image":"/assets/motoedge.webp",
+        "rating":"4.5",
+        "ratingsCount":"61,633 Ratings & 4,077 Reviews",
+        "specs":[
+            "12 GB RAM",
+            "17.02 cm (6.7 inch) Full HD+ Display",
+            "50MP + 13MP | 32MP Front Camera",
+            "5000 mAh Battery",
+            "7s Gen 2 Processor",
+            "1 Year on Handset and 6 Months on Accessories"
+        ],
+        "newPrice":"₹23,999",
+        "oldPrice":"₹27,999",
+        "discount":"14% off",
+        "delivery":"Free Delivery",
+        "exchangeOffer":"Upto <span class='inr'>₹13,850</span> Off on Exchange"
+    },
+    {
+        "name":"SAMSUNG Z2 (Gold, 8 GB)",
+        "image":"/assets/samsung72.webp",
+        "rating":"3.6",
+        "ratingsCount":"12,977 Ratings & 676 Reviews",
+        "specs":[
+            "1 GB RAM | 8 GB ROM",
+            "10.16 cm (4 inch) Display",
+            "5MP Rear Camera",
+            "5100 mAh Battery",
+            "1 Year for Mobile & 6 Months Accessories Warranty"
+        ],
+        "newPrice":"₹4,999",
+        "oldPrice":"",
+        "discount":"",
+        "delivery":"",
+        "exchangeOffer":""
+    },
+    {
+        "name":"SAMSUNG Galaxy A03s (Black, 32 GB)",
+        "image":"/assets/sama.webp",
+        "rating":"3.6" ,
+        "ratingsCount":"463 Ratings & 35 Review",
+        "specs":[
+            "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB",
+            "16.51 cm (6.5 inch) Full HD+ Display",
+            "13MP + 2MP + 2MP | 5MP Front camera",
+            "5000 mAh Lithium-Ion Battery",
+            "Mediatek Hello P35 (MT6765) Processor",
+            "1 Year Warranty Provided by the Manufacturer From Date of Purchase"
+        ],
+        "newPrice":"₹7,990",
+        "oldPrice":"₹11,999",
+        "delivery":"Free Delivery",
+        "discount":"33% off",
+        "exchangeOffer":"Only few left"
+    },
+    {
+        "name":"TARA MOBILE 2163",
+        "image":"/assets/tara2.webp",
+        "rating":"2.5",
+        "ratingsCount":"35 Rating & 2 Reviews",
+        "specs":[
+            "32 MB RAM | 32 RAM ROM",
+            "4.5 cm (1.77 inch) QVGA Display",
+            "0.3MP Rear Camera",
+            "1000 mAh Battery",
+            "1 Month Manufacture Warranty"
+        ],
+        "newPrice":"₹400",
+        "oldPrice":"",
+        "delivery":"",
+        "discount":"",
+        "exchangeOffer":""
+    }
+
+]
+
+
+   
+
+

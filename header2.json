@@ -1,0 +1,283 @@
+{
+    "electronics": {
+        "title": "Electronics",
+        "mobiles": [
+            "MI",
+            "Samsung",
+            "Infinix",
+            "Oppo",
+            "Apple",
+            "Vivo",
+            "Honor",
+            "Asus",
+            "Poco X2",
+            "realme Nazro 10",
+            "Infinix Hot 9",
+            "IQOO 3",
+            "iPhone SE",
+            "Motorola"
+        ],
+        "mobile_accessories": {
+            "title": "Mobile Accessories",
+            "items": [
+                "Mobile cases",
+                "Headphones & headset",
+                "Power Banks",
+                "Screenguards",
+                "Memory Cards",
+                "Smart Headphones",
+                "Mobile Cables",
+                "Mobile chargers",
+                "Mobile Holders",
+                "Smart Wearable Tech",
+                "Smart Watches",
+                "Smart Glasses (VR)",
+                "Smart Bands",
+                "Health care appliances"
+            ]
+        }
+    },
+    "tvs_and_appliances": {
+        "title": "Television",
+        "mobiles": [
+            "New Launches",
+            "Smart & Ultra HD",
+            "Top Brands",
+            "MI",
+            "Vu",
+            "Thomson",
+            "Samsung",
+            "IFFALCON by TCL",
+            "Nokia",
+            "LG",
+            "Real Me",
+            "Motorola",
+            "Shop by Screen Size",
+            "24 & below",
+            "28 - 32",
+            "39 - 43",
+            "48 - 55",
+            "60 & above"
+        ],
+        "mobile_accessories": {
+            "title": "Washing Machine",
+            "items": [
+                "Fully Automatic Front Load",
+                "Semi Automatic Top Load",
+                "Fully Automatic Load",
+                "Air conditioners",
+                "Inverter AC",
+                "Split ACs",
+                "Window ACs",
+                "Shop By Brand ",
+                "LG",
+                "Hitachi",
+                "Carrier",
+                "Refrigerators",
+                "Single Door",
+                "Double Door",
+                "Triple Door",
+                "Side by Side",
+                "Convertible"
+            ]
+        }
+    },
+    "men":{
+        "title":"Footwear",
+        "mobiles":[
+            "Sports Shoes",
+            "Casual Shoes",
+            "Formal Shoes",
+            "Sandals & Floaters",
+            "Flip-Flops",
+            "Loafers",
+            "Boots",
+            "Running Shoes",
+            "Boots",
+            "Running Shoes",
+            "Sneakers",
+            "Men's Grooming",
+            "Deodorants",
+            "Perfumes",
+            "Beard Care & Grooming",
+            "Shaving & Aftershave"
+
+        ],
+        "mobile_accessories": {
+            "title": "Clothing",
+            "items": [
+                "Top wear",
+                "T-Shirts",
+                "Formal Shirts",
+                "Casual Shirts",
+                "Bottom wear",
+                "Jeans",
+                "Casual Trousers",
+                "Formal Trousers",
+                "Tracks pants",
+                "Shorts",
+                "Three Fourths",
+                "Suits,Blazers & Waistclouds",
+                "Ties,Socks,Caps & More",
+                "Fabrics"
+            ]
+        }
+
+    },
+    "women":{
+        "title":"Clothing",
+        "mobiles":[
+            "Topwear",
+            "Dresses",
+            "Jeans",
+            "Shorts",
+            "Skirts",
+            "Jeggings & Tights",
+            "Trousers & Capris",
+            "Night Dresses & Nighties",
+            "Shapewear",
+            "Camisole & Slips"
+        ],
+        "mobile_accessories": {
+            "title": "Ethnic Wear",
+            "items": [
+               "Sarees",
+               "Kurtas & Kurtis",
+               "Dress Material",
+               "Lehenga Choli",
+               "Blouse",
+               "Kurta Sets & Salwar Suits",
+               "Gowns",
+               "Dupattas",
+               "Ethinic Bottoms",
+               "Leggings & Churidars",
+               "Palazzos",
+               "Sharars"
+            ]
+        }
+
+    },
+   "baby_and_kids":{
+        "title":"Kids Clothing",
+        "mobiles":[
+           "Boys' Clothing",
+           "T-Shirts",
+           "Ethinic Wear",
+           "Shorts",
+           "Shirts",
+           "Innerwear",
+           "Girls'Clothing",
+           "Dresses & Skirts",
+           "Ethinic Wear",
+           "T-Shirts & Tops",
+           "Innerwear",
+           "Baby Boys' Clothing",
+           "Combos Sets",
+           "Baby Girls Clothing"
+        ],
+        "mobile_accessories": {
+            "title": "Kids Footwear",
+            "items": [
+               "Boys'Footwear",
+               "Sandals",
+               "Sport Shoes",
+               "Girls' Footwear",
+               "Flats & Bellies",
+               "Sport Shoes",
+               "Infant Footwear",
+               "Character Shoes",
+               "Kids' Watches",
+               "Kids' Sunglasses",
+               "Kids' Winter Wear",
+               "Boy's Sweatshirts",
+               "Boy's Jacket",
+               "Girls' Sweatshirts",
+               "Girls' Jackets",
+               "Infants Winter Wear",
+               "Thermals"
+            ]
+        }
+
+    },
+    "home_and_furniture":{
+        "title":"Kitchen",
+        "mobiles":[
+           "Pans",
+           "Tawas",
+           "Pressure Cookers",
+           "Kitchen tools",
+           "Gas Stoves",
+           "Tableware",
+           "Coffee Mugs",
+           "Dinner Set",
+           "Barware",
+           "Kitchen Storage",
+           "Water Bottles",
+           "Lunch Boxes",
+           "Flasks",
+           "Casseroles",
+           "Kitchen Conatiners"
+        ],
+        "mobile_accessories": {
+            "title": "Furniture",
+            "items": [
+               "Bed Room Furniture",
+               "Beds",
+               "Mattresses",
+               "Wardrobes",
+               "Living Room",
+               "Sofa",
+               "Sofa Beds",
+               "TV Units",
+               "Dining Tables & Chairs",
+               "Coffee Tables",
+               "Shoe Racks",
+               "Office & Study Furniture",
+               "Kids Room Furniture"
+            ]
+        }
+
+    },
+    "sports,books_and_more":{
+        "title":"Sports",
+        "mobiles":[
+           "Cricket",
+           "Badminton",
+           "cycling",
+           "Football",
+           "Skating",
+           "Camping & Hiking",
+           "Swimming",
+           "Exercise Fitness",
+           "Cardio Equipment",
+           "Home Gyms",
+           "Support",
+           "Dumbbells",
+           "Ab Exercisers",
+           "Shakers & Sippers",
+           "Yoga Mat"
+        ],
+        "mobile_accessories": {
+            "title": "Food Esentials",
+            "items": [
+               "Nuts & Dry Fruits",
+               "Tea,Coffee and Beverages",
+               "Chocolates",
+               "Snacks Corner",
+               "Gifting Combos",
+               "Sweets Store",
+               "Jams,Spreads and Honey",
+               "Breakfast Items",
+               "Health & Nutrition",
+               "All Supplements",
+               "Protein Supplements",
+               "Vitamin Supplements",
+               "Health Drinks"
+            ]
+        }
+
+    }
+
+}
+
+

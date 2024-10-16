@@ -1,0 +1,145 @@
+{
+    "storage":[
+        {"title":"256 GB & Above"},
+        {"title":"128 - 255.9 GB"},
+        {"title":"64 - 127.9 GB"},
+        {"title":"32 - 63.9 GB"},
+        {"title":"16 - 31.9 GB"},
+        {"title":"8 - 15.9 GB"},
+        {"title":"4 - 7.9 GB"},
+        {"title":"2 GB - 3.9 GB"},
+        {"title":"1 GB - 1.9 GB"},
+        {"title":"Less than 1 GB"},
+        {"title":"256 GB Above"}
+    ],
+    "battery":[
+        {"title":"1000 - 1999 mAh"},
+        {"title":"1000-1999 mAh"},
+        {"title":"2000 - 2999 mAh"},
+        {"title":"3000 - 3999 mAh"},
+        {"title":"4000 - 4999 mAh"},
+        {"title":"5000 - 5999 mAh"},
+        {"title":"5000 mAh Above"},
+        {"title":"6000 mAh & Above"},
+        {"title":"Less than 1000 mAh"}
+    ],
+    "screen":[
+        {"title":"5.7 - 5.9 inch"},
+        {"title":"5.5 - 5.6 inch"},
+        {"title":"5.2 - 5.4 inch"},
+        {"title":"5 - 5.1 inch"},
+        {"title":"4.5 - 4.9 inch"},
+        {"title":"4 - 4.4 inch"},
+        {"title":"3.5 - 3.9 inch"},
+        {"title":"Less than 3 inch"},
+        {"title":"6.4 inch & Above"},
+        {"title":"6 - 6.3 inch"},
+        {"title":"6 inch above"}
+    ],
+    "camera":[
+        {"title":"5 - 7.9 MP"},
+        {"title":"Below 5 MP"},
+        {"title":"8 - 11.9 MP"},
+        {"title":"12 - 12.9 MP"},
+        {"title":"12 - 15.9 MP"},
+        {"title":"13 - 15.9 MP"},
+        {"title":"16 - 20.9 MP"},
+        {"title": "21 - 31.9 MP"},
+        {"title":"21 MP Above"},
+        {"title":"32 - 47.9 MP"},
+        {"title":"48 - 63.9 MP"},
+        {"title":"64 MP & Above"}
+    ],
+    "second":[
+        {"title":"12 - 12.9 MP"},
+        {"title":"12 - 15.9 MP"},
+        {"title":"13 - 15.9 MP"},
+        {"title":"16 - 20.9 MP"},
+        {"title":"21 MP Above"},
+        {"title":"21 MP & Above"},
+        {"title":"5 - 7.9 MP"},
+        {"title":"8 - 11.9 MP"},
+        {"title":"Below 5 MP"}
+    ],
+    "processor":[
+        {"title":"AMD"},
+        {"title":"Apple"},
+        {"title":"ARM"},
+        {"title":"Exynos"},
+        {"title":"Google"},
+        {"title":"HiSilicon"},
+        {"title":"Huawei"},
+        {"title":"Intel"},
+        {"title":"Mediatek"},
+        {"title":"NVIDIA"},
+        {"title":"Qualcomm"},
+        {"title":"RDA"},
+        {"title":"Snapdragon"},
+        {"title":"Spectrum"},
+        {"title":"Unisoc"}
+    ],
+    "speciality":[
+        {"title":"Big Storage"},
+        {"title":"Higher Performance"},
+        {"title":"Long-Lasting Battery"},
+        {"title":"Selfie Camera"}
+    ],
+    "resolution":[
+        {"title":"Full HD"},
+        {"title":"Full HD+"},
+        {"title":"Full HD+ AMOLED Display"},
+        {"title":"Full HD+ E3 Super AMOLED Display"},
+        {"title":"Full HD+ Super AMOLED Display"},
+        {"title":"FWVGA"}
+    ],
+    "operating":[
+        {"title":"Android"},
+        {"title":"Blackberry"},
+        {"title":"iOS"},
+        {"title":"KaiOS"},
+        {"title":"Tizen"},
+        {"title":"Windows"}
+    ],
+    "network":[
+        {"title":"2G"},
+        {"title":"3G"},
+        {"title":"4G"},
+        {"title":"4G VOLTE"},
+        {"title":"5G"}
+    ],
+    "sim":[
+        {"title":"Dual Sim"},
+        {"title":"Dual Sim(Nano + eSIM)"},
+        {"title":"Dual Sim(Physical + eSIM)"},
+        {"title":"Four Sim"},
+        {"title":"Single Sim"},
+        {"title":"Triple Sim"}
+    ],
+    "offer":[
+        {"title":"Buy More, Save More"},
+        {"title":"No cost EMI"},
+        {"title":"Special Price"}
+    ],
+    "features":[
+        {"title":"WIFI"},
+        {"title":"HD Recording"},
+        {"title":"FM Player"},
+        {"title":"NFC"},
+        {"title":"Bluetooth"},
+        {"title":"USB"},
+        {"title":"GPRS"}
+    ],
+    "type":[
+        {"title":"Smartphone"},
+        {"title":"Feature Phones"}
+    ],
+    "discount":[
+        {"title":"50% or more"},
+        {"title":"40% or more"},
+        {"title":"30% or more"},
+        {"title":"20% or more"},
+        {"title":"10% or more"}
+    ]
+
+}
+

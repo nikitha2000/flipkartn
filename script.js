@@ -872,10 +872,15 @@ document.addEventListener('DOMContentLoaded', () => {
 //--------------------------------------------------------------------------------------------------------------------------------------
 //===========================================================================================================================================================
 
+let productsData =[]
+let selectedPriceRange = null;
+let filterPro = [];
+
+
 async function fetchAndRenderProducts() {
     try {
         const response = await fetch('mobile.json'); 
-        const productsData = await response.json();
+        productsData = await response.json();
         renderProductList(productsData);
     } catch (error) {
         console.error('Error fetching products:', error);
@@ -948,3 +953,154 @@ function renderProductList(products) {
 
 
 fetchAndRenderProducts();
+
+//========================================================================================================================================
+
+document.getElementById('toggle-button').addEventListener('click', function() {
+    const mobileView = document.querySelector('.mobile-view');
+    const mobileViewFilter = document.querySelector('.mob-view-filter');
+
+    
+    if (mobileView.style.display === 'none' || mobileView.style.display === '') {
+        mobileView.style.display = 'block';         
+        mobileViewFilter.style.display = 'none';    
+    } else {
+        mobileView.style.display = 'block';          
+        mobileViewFilter.style.display = 'none';    
+    }
+
+});
+
+
+document.getElementById('filter-button').addEventListener('click', function() {
+    const mobileView = document.querySelector('.mobile-view');
+    const mobileViewFilter = document.querySelector('.mob-view-filter');
+
+   
+    mobileView.style.display = 'none';
+    mobileViewFilter.style.display = 'block';
+});
+
+// ============================================================================================================================================
+
+
+
+
+document.querySelectorAll('.mprice-list-ul').forEach(option => {
+    option.addEventListener('click', () => {
+        selectedPriceRange = option.title; 
+        document.querySelectorAll('.msquares').forEach(square => {
+            square.classList.remove('active');
+        });
+        option.querySelector('.msquares').classList.add('active'); 
+    });
+});
+
+console.log("Product data:", productsData);
+
+function applyFilter() {
+    console.log("Filter applied");
+    console.log("Selected Price Range:", selectedPriceRange);
+
+    
+    if (!selectedPriceRange) {
+        renderProductList(productsData);
+        return;
+    }
+
+    const productsInRange = productsData.filter(product => {
+        const price = parseFloat(product.newPrice.replace(/[^\d.-]/g, '').replace(/\s+/g, '')); // Extract numeric value
+
+        console.log(`Checking product ${product.name} with price ${product.newPrice}`); 
+
+        switch (selectedPriceRange) {
+            case "Rs.10000 and Below":
+                return price <= 10000;
+            case "Rs.10000 - Rs.15000":
+                return price > 10000 && price <= 15000;
+            case "Rs.15000 - Rs.20000":
+                return price > 15000 && price <= 20000;
+            case "Rs.20000 - Rs.30000":
+                return price > 20000 && price <= 30000;
+            case "Rs.30,000 and Above":
+                return price > 30000;
+            default:
+                return true; 
+        }
+    });
+
+    console.log(`Filtered products count: ${productsInRange.length}`);
+
+    renderProductList(productsInRange);
+
+    document.querySelector('.mobile-view').style.display = 'block'; // Adjust selector as needed
+    
+    document.querySelector('.mob-view-filter').style.display = 'none'; 
+}
+
+
+document.querySelector('.apply-btn').addEventListener('click', applyFilter);
+
+
+fetchAndRenderProducts();
+
+
+
+
+//========================================================================================================
+document.getElementById('sortButton').addEventListener('click', function() {
+    const filterDiv = document.getElementById('filterDiv');
+    filterDiv.style.display = filterDiv.style.display === 'none' || filterDiv.style.display === '' ? 'block' : 'none';
+});
+
+
+document.getElementById('filterDiv').addEventListener('click', function(event) {
+    this.style.display = 'none'; 
+});
+
+
+const circles = document.querySelectorAll('.mrelevence-circle');
+circles.forEach(circle => {
+    circle.addEventListener('click', function(event) {
+        event.stopPropagation(); 
+
+        const parent = this.closest('.mrelevence');
+        const sortOption = parent.querySelector('.mrelevence-text span').innerText;
+        setActiveCircle(circle);
+        
+        filteredPro(sortOption); 
+        document.getElementById('filterDiv').style.display = 'none'; 
+    });
+});
+
+
+function setActiveCircle(activeCircle) {
+    circles.forEach(circle => {
+        circle.classList.remove('active');
+    });
+    activeCircle.classList.add('active');
+}
+
+
+
+
+function filteredPro(sorted = null) {
+    let filterPro = [...productsData]; 
+
+    if (sorted === "Price -- Low to High") {
+        filterPro.sort((a, b) => {
+            const priceA = parseInt(a.newPrice.replace(/[^0-9]/g, ''));
+            const priceB = parseInt(b.newPrice.replace(/[^0-9]/g, ''));
+            return priceA - priceB;
+        });
+    } else if (sorted === "Price -- High to Low") {
+        filterPro.sort((a, b) => {
+            const priceA = parseInt(a.newPrice.replace(/[^0-9]/g, ''));
+            const priceB = parseInt(b.newPrice.replace(/[^0-9]/g, ''));
+            return priceB - priceA;
+        });
+    } 
+
+    renderProductList(filterPro); 
+}
+

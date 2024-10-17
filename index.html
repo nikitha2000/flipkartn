@@ -8,7 +8,7 @@
     <title>Mobile -Buy Products Online at Best Price in India - All Categories | Flipkart.com</title>
 </head>
 <body>
-    <div class="mobile-view">
+    <div class="mobile-view" style="overflow: hidden;" >
         <div class="mob-header">
             <div class="mob-header-1">
                 <div class="header1-content">
@@ -37,14 +37,14 @@
                     <div class="mob-header2-content">
                         <div class="mob-header2-nav">
                             <div style="flex: 1;">
-                                <div class="sort">
+                                <div class="sort" id="sortButton">
                                     <svg width="20" height="20" viewBox="0 0 256 256"><path fill="none" d="M0 0h256v256H0z"></path><path fill="none" stroke="#111112" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="m144 168 40 40 40-40M184 112v96M48 128h72M48 64h136M48 192h56"></path></svg>
                                      <div class="sort-text">Sort</div>
                                 </div>
                             </div>
                             <div class="linev"></div>
                             <div style="flex: 1;">
-                                <div class="filter">
+                                <div class="filter" id="filter-button">
                                     <div class="filter-svg">
                                         <svg width="20" height="20" viewBox="0 0 256 256"><path fill="none" d="M0 0h256v256H0z"></path><path fill="none" stroke="#111112" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M148 172H40M216 172h-28"></path><circle cx="168" cy="172" r="20" fill="none" stroke="#111112" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></circle><path fill="none" stroke="#111112" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M84 84H40M216 84h-92"></path><circle cx="104" cy="84" r="20" fill="none" stroke="#111112" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"></circle></svg>
                                     </div>
@@ -172,6 +172,154 @@
 
         </div>
     </div>
+
+    <div class="end-filter" id="filterDiv">
+        <div class="end-filter-container">
+            <div class="end-pos1">
+                <div class="end-pos11"></div>
+            </div>
+            <div class="end-pos2">
+                <div class="end-filter-content">
+                    <div class="endf-list">
+                        <div class="msortby">SORT BY</div>
+                        <div class="msort-list">
+                            <div class="mrelevence">
+                                <div class="mrelevence-container">
+                                  <div class="mrelevence-text"><span>Relevance</span></div>
+                                  <div class="mrelevence-circle"></div>
+                                </div>
+                            </div>
+                            <div class="mrelevence">
+                                <div class="mrelevence-container">
+                                   <div class="mrelevence-text"><span>Popularity</span></div>
+                                   <div class="mrelevence-circle"></div>
+                                </div>
+                            </div>
+                            <div class="mrelevence">
+                                <div class="mrelevence-container">
+                                  <div class="mrelevence-text"><span>Price -- Low to High</span></div>
+                                  <div class="mrelevence-circle"></div>
+                                </div>
+                            </div>
+                            <div class="mrelevence">
+                                <div class="mrelevence-container">
+                                  <div class="mrelevence-text"><span>Price -- High to Low</span></div>
+                                  <div class="mrelevence-circle"></div>
+                                </div>
+                            </div>
+                            <div class="mrelevence">
+                               <div class="mrelevence-container">
+                                 <div class="mrelevence-text"><span>Newest First</span></div>
+                                 <div class="mrelevence-circle"></div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
+
+    <div class="mob-view-filter">
+      <div class="filter-header">
+         <div class="filter-header-container">
+            <div class="filter-header-content">
+                <a class="fh-a" id="toggle-button">
+                    <svg width="19" height="16" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg"><path d="M17.556 7.847H1M7.45 1L1 7.877l6.45 6.817" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"></path></svg>
+                </a>
+                <div class="fh-text">
+                    <div class="fh-text-container">
+                        <h1>Filters</h1>
+                    </div>
+                </div>
+            </div>
+         </div>
+      </div>
+        <div class="filter-content">
+            <div class="main-filter">
+                <div class="filter-list">
+                    <div class="mob-price" >
+                        <div class="mob-price-container" style="background-color: white;">
+                            <div class="mprice-text" style="color: rgba(40, 116, 240, 1.00);">Price</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">Brand</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">F-Assured</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">Customer Ratings</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">GST Invoice Available</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">RAM</div>
+                        </div>
+                    </div>
+                    <div class="mob-price">
+                        <div class="mob-price-container">
+                            <div class="mprice-text">Internal-Storage</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mprice-list">
+                    <div class="mprice-list-container">
+                        <div class="mprice-list-ul" title="Rs.10000 and Below" >
+                            <div class="mprice-list-ul-cont">
+                                    <div class="msquares "></div>
+                                    <div class="mprice-texts">Rs.10000 and Below</div>
+                            </div>
+                        </div>
+                        <div class="mprice-list-ul" title="Rs.10000 - Rs.15000" >
+                            <div class="mprice-list-ul-cont">
+                                    <div class="msquares"></div>
+                                    <div class="mprice-texts">Rs.10000 - Rs.15000</div>
+                            </div>
+                        </div>
+                        <div class="mprice-list-ul" title="Rs.15000 - Rs.20000" >
+                            <div class="mprice-list-ul-cont">
+                                    <div class="msquares"></div>
+                                    <div class="mprice-texts">Rs.15000 - Rs. 20000</div>
+                            </div>
+                        </div>
+                        <div class="mprice-list-ul" title="Rs.20000 - Rs.30000">
+                            <div class="mprice-list-ul-cont">
+                                    <div class="msquares"></div>
+                                    <div class="mprice-texts">Rs.20000 - Rs. 30000</div>
+                            </div>
+                        </div>
+                        <div class="mprice-list-ul" title="Rs.30000 and Above">
+                            <div class="mprice-list-ul-cont">
+                                    <div class="msquares"></div>
+                                    <div class="mprice-texts">Rs.30000 and above</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="apply-btn">
+            <div class="apply-btn-container">
+                <div class="apply-text">
+                    <span>Apply</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <div class="desk-header">
         <div class="desk-container">
             <div class="desk-header-content">

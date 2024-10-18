@@ -721,7 +721,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchesRAM = selectedRAMs.length === 0 || selectedRAMs.some(ram => {
                 if (ram === "1GB and Below") {
                     return productRamValue <= 1;
-                } else if (ram === "6 GB and Above") {
+                } else if (ram === "6 GB Above") {
                     return productRamValue >= 6;
                 } else if (ram === "8 GB and Above") {
                     return productRamValue >= 8;
@@ -772,11 +772,20 @@ document.addEventListener('DOMContentLoaded', () => {
             renderProducts(currentPage, filteredProducts);
             document.getElementById('no-phones-available').style.display = 'none';
            
+           
         } else {
             renderProducts(currentPage, products);
             document.getElementById('product-repeat-container').innerHTML = ''; // Clear product container
             document.getElementById('no-phones-available').style.display = 'flex';
+            const header = document.querySelector('.top2-header');
+            header.innerHTML = `Showing 0 results for "mobile"`;
 
+        }
+
+        if (filteredProducts.length < 15) {
+            document.getElementById('pageNumbers').style.display = 'none';
+        } else {
+            document.getElementById('pageNumbers').style.display = 'block';
         }
 
     }
